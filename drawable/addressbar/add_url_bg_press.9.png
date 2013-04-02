@@ -1,0 +1,12 @@
+or" 
+	          android:angle="270" />
+
+</shape>
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle">
+	<gradient android:startColor="filemanager_item_pressed_startcolor" 
+	          android:endColor="filemanager_item_pressed_endcolor"
+	          android:angle="270" />
+
+</shape><?xml 

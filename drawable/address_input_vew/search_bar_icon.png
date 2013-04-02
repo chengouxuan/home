@@ -1,0 +1,16 @@
+d:drawable="home_appstore_button.9.png" /> 
+</selector><?xml version="1.0" encoding="utf-8"?>
+ <selector xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:state_selected="true" android:color="appcenter_button_text_selected_color" />
+     <item android:state_focused="true" android:color="appcenter_button_text_selected_color" />
+     <item android:state_pressed="true" android:color="appcenter_button_text_selected_color" />
+     <item android:color="appcenter_button_text_default_color" />
+ </selector> <?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="home_appstore_add_selected.9.png" /> 
+	<item android:state_focused="true" android:drawable="home_appstore_add_selected.9.png" /> 
+	<item android:state_selected="true" android:drawable="home_appstore_add_selected.9.png" /> 
+</selector><?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="home_appstore_close_focused.png" /> 
+	<item android:state_focused="true" android:

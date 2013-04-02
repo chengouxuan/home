@@ -1,0 +1,3 @@
+:width="48" android:height="48" android:name="menu_account"/> 
+	<patch android:drawable="panel_common.png" 
+           android:x="96" android:y="96" 

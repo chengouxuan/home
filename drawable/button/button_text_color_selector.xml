@@ -1,0 +1,9 @@
+.png" 
+           android:x="0" android:y="0" android:width="48" android:height="48" android:name="menu_addtobookmark"/> 
+	<patch android:drawable="panel_bookmark.png" 
+           android:x="48" android:y="0" android:width="48" android:height="48" android:name="menu_addtofolder"/> 
+	<patch android:drawable="panel_bookmark.png" 
+           android:x="96" android:y="0" android:width="48" android:height="48" android:name="menu_history_clear"/> 
+           
+	<patch android:drawable="panel_bookmark.png" 
+           android

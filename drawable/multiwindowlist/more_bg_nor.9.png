@@ -1,0 +1,5 @@
+tify_window_toolbar_share_color" />
+     <item android:state_focused="true" android:color="prettify_window_toolbar_share_color" />
+     <item android:state_pressed="true" android:color="prettify_window_toolbar_share_color" />
+     <item android:state_enabled="false" android:color="toolbar_item_text_disabled_color" />
+     <item android:color="prettify_window_toolbar_sh

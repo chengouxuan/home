@@ -1,0 +1,9 @@
+="xxx.png" /> 
+</selector>
+ -->
+ 
+<!-- 
+使用Color做背景请使用下面的内容,颜色值在color.xml中home_page_list_bg中定义。
+从绘图性能的角度，默认的皮肤强烈建议都使用Color做背景～～～～～
+<?xml version="1.0" encoding="UTF-8"?>
+<shape type="rectangle" xmlns:android="http://schemas.android

@@ -1,0 +1,6 @@
+:x="0" android:y="192" android:width="48" android:height="48" android:name="menu_refresh"/> 
+           
+	<patch android:drawable="panel_bookmark.png" 
+           android:x="0" android:y="240" android:width="48" android:height="48" android:name="menu_history_date"/> 
+	<patch android:drawable="panel_bookmark.png" 
+           android:x="48" android:y="240" android:width="48" android:height="48" android:name="menu_history_visit

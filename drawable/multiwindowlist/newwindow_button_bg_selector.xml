@@ -1,0 +1,13 @@
+ng="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">    
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="search_inputview_message_pressed_solid"/>
+            <stroke
+                android:width="1px"
+                android:color="search_inputview_message_pressed_stroke" />
+            <corners
+                android:radius="3dp"
+			/>
+        </shape>

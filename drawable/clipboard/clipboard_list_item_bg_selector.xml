@@ -1,0 +1,7 @@
+el_common.png" 
+           android:x="48" android:y="48" android:width="48" android:height="48" android:name="menu_refresh"/> 
+	<patch android:drawable="panel_common.png" 
+           android:x="96" android:y="48" android:width="48" android:height="48" android:name="menu_download"/> 
+	<patch android:drawable="panel_common.png" 
+           android:x="0" android:y="96" android:width="48" android:height="48" android:name="menu_addtobookmark"/> 
+	<patch android:dra

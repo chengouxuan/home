@@ -1,13 +1,7 @@
-ng="utf-8"?>
-<selector
-    xmlns:android="http://schemas.android.com/apk/res/android">    
-    <item android:state_pressed="true">
-        <shape>
-            <solid android:color="search_inputview_message_pressed_solid"/>
-            <stroke
-                android:width="1px"
-                android:color="search_inputview_message_pressed_stroke" />
-            <corners
-                android:radius="3dp"
-			/>
-        </shape>
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="newwindow_button_touch.9.png" /> 
+	<item android:state_focused="true" android:drawable="newwindow_button_touch.9.png" /> 
+	<item android:state_selected="true" android:drawable="newwindow_button_touch.9.png" /> 
+	<item android:drawable="newwindow_button_nor.9.png" /> 
+</selector>

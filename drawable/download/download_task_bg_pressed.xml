@@ -1,2 +1,7 @@
-´US=%Y#nLoU	C¾É®{Sºû´!Ò=_¬‘^N‘¼:¦£lôŸvì’wA¦ûü‘qÐ‘ÈÌO‚ne¬÷³|6¸¤HA&_Åµ®ybôô.]Ûù¶—û·÷ï<¢pR3×!FŒNr§ôúó°x‰ÁÛ}Ý€Ý_½²/Böq30 #åÂ×Ÿ¹†UàSpýEèˆ¶)Zs?ñD—®ðšÍ®óÌ:”Þ»BšÛÖT,¶£HÿçM£¶5¥bV{ò‡¿&±+[WÏ¯¥Éô:÷™“Û†ûc:tè0Lœ?é¹q0‘àü,h
-g³˜C¥¢…ãíñÌû6SS¥Hµ^^€C”$|4µ
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <gradient
+        android:startColor="download_task_bg_pressed_start"
+        android:endColor="download_task_bg_pressed_end"
+        />
+</shape>

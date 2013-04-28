@@ -1,3 +1,6 @@
-I¯À§î[À{Ü]l‹AZ}Æ’z{­ä4E^Èùå"¨ùÏô@;j³e‰´oY©ß
-	ø![š#Ç£˜í,eÓ,•ú$ZÇßÂœ*:ž²ùËd	F9ùl^EÍÅƒê%(€¡ÐZJ]ì9$QÐlëßº#‹&ßßXð÷•º/äåõjà!DÉ
-®2MŒ¡ÇÑÎ@t÷1Ç‡ÇÐV¦šÔ°3bÚ²§ìÓ&H"nb<)?,)¦Ï)ÇŒ1Çã9aLõ1(#ô5›dr|àíäílöFkÍ¸?ÇÄLà6ÙÖîM9Ú?e#é¼Ö•ón;Yi#çî´Ë¡ææD‚v#I¹úrut[3¬Ö•¶±v\ê­Ù—€ÞÇÙÈV9FK[!§lOTÇ5ºÀ-^5	µc±séã³#³÷Žî¨zïí=†Óú˜?NÒ]íV÷z­WÔzÁÂÖf¨>ñ’ÓH{€çÂÚh©¶‘'÷:9‹ŒyîDº,Û:ç
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="toolbar_menu_selected_ls.png" /> 
+	<item android:state_focused="true" android:drawable="toolbar_menu_selected_ls.png" /> 
+	<item android:state_selected="true" android:drawable="toolbar_menu_selected_ls.png" /> 
+</selector>

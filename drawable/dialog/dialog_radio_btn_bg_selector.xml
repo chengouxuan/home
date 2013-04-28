@@ -1,3 +1,4 @@
-ñç{¾?bÅk1Kâ?Ò-j·#ŸÄ³tÅ‚%£æxÛÙm
-$T—¦³›æMŽXÏ³/S‡cBmA$fbÝ°+K•Eh¡¢^j[‹”JI4ôòx¶I¶zmåä8dšmE$1ãÓ­~–YD/R‚„úgÃ€ÑMãMvf/ë§Ú^g‰O–ô	Pôâ(‹´Z3Úf¸´šgü
-ÍŒM q[¢Qñõ"ø,†Z SX¸LÐ™ÍÅŸë/°ú"‡¼½EÚZ
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="dialog_item_focus.9.png" android:state_pressed="true"/>
+</selector>

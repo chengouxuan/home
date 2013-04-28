@@ -1,3 +1,6 @@
-&SC:	×|ÐXêÑÀ©}Y¦žHUJE¦%vðà“Ü¢³LCT‘€öøªÄŽ\¥fœŽ
-?²o'Ó¹÷Ü·åmæ¶×Š•V"_Q ·kËÈ1Ä#)rÕ»±¤ÛÊYÔWÀé‰‡=Ó˜œ¡ýÈ©ÝOô\Óoîs¥êl;Æ³ÉR ”€G	™I¼æŸLõìbOìMmtà²DûVù=õš®ø§±{ªñ«º’`‚nNÆÄTU13‰·lY8µŸãÚŒM¡—sË¬²¿¢§ÀG¸ÿO·%-\ÕáÐ_Û×Ø™¸Öü\Sà#Üé)ðvˆådæè	©ðSØ~âœÉÔz‰e=©™ê&ú$w"©0¨ÙvŒOC$öƒ}1ƒ
-nÒWKÅÈ²üÊË¯Äé«	œºä…H‚LÆÓñ$^òvp]QþGúÅ‹" “/^é/žØ  ÖÊÈ$þ'MgðàÎi´uuªeé¯
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="dialog_input_edit_focus.9.png" android:state_focused="true"/>
+    <item android:drawable="dialog_input_edit_focus.9.png" android:state_pressed="true"/>
+    <item android:drawable="dialog_input_edit_normal.9.png"/>
+</selector>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#fdf4d7"/>
+</shape>
 
-           android:x="0" android:y="0" android:width="48" android:height="48" android:name="menu_bookmarkhistory"/> 
-	<patch android:drawable="pan

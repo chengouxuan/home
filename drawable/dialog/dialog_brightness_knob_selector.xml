@@ -1,1 +1,5 @@
-k<(}ž‡é$Kxæ‡Aãa‡ÆCãaÐxXãaÐx4Öx˜ÿDãá®É^4²Ô%dé3•Ðxh<%ÕbÐxñQ-Vh<L7‡,õ ñp¼„£Z‡ùø¢ñz‘%4ƒ£Z(¡ñÐxÕ¢ñ0h<7KØ;åkÕb%ŽÆÃ ñþ¢ÆÃnQ=h<ü.á¨S–¥k<+qìŠÆÃ ñÐx˜ÏÈï+e	çÐx˜ŽYBãa:Y‰£ñpT‹é¨ñ „ÆÃ ñÐx4‡ÆÃ ñþ2%4ÞWÊ”Ðxd	J4Yú‚J¸VûiƒÝ¢¾–‡éj%4
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="brightness_knob_disalbe.png" android:state_enabled="false"/>
+    <item android:drawable="brightness_knob_normal.png"/>
+</selector>

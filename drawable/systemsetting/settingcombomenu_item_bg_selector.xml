@@ -1,1 +1,6 @@
-Ξ	ªZÒπ΄|Τ#wkή7lΐήΛήΐΧi(yΣΩ…-X ι{yFΓ‹ΝgWΣ€))ζ“{ΐJΘcϊTbDyΟ*όΎOχDr¬rP‡ι)¦^c"ύaY1cκwH+M0yΗ«{ªΙuM«ΘΧµZoωιωΎ°y 8mB1UΤά§Ng2*ΧΕίƒ1 aTΊixT<χΏiτ…L)zΗ5ΎδΜwSϋCτ`υ²κΔSοS%λ9όΆΐύ @Κ&οbBLLσ>vB‡ςkΆΖ)Ύ£Μ–Δζ¥Cφ;Χx	ΊΐΊ/]&Δ‹„‚&vεξ|Ϋ^ήmΒ„¤%ΔόBη+Ά©±ωQζ$ΈGN°έ‡‡-½Χ«®"Θ:.ήπίhfΚΎΝμa‡GΈνιώS ξz®ϋ9`?μc΄6‘>bD›ΩΓ@:ηά»Ξ4Ξ—υ:^lN ω&ωEZ―wζoiƒ1Δ―‰Hπ{¤=ό~ς7ω/G/ά
+<?xml version="1.0" encoding="utf-8"?>   
+<selector xmlns:android="http://schemas.android.com/apk/res/android">  
+	<item android:state_pressed="true" android:drawable="settingcombomenu_item_bg.9.png"/>
+    <item android:state_focused="true" android:drawable="settingcombomenu_item_bg.9.png"/>
+    <item android:state_selected="true" android:drawable="settingcombomenu_item_bg.9.png" /> 
+</selector> 

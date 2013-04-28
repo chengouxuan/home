@@ -1,9 +1,8 @@
-.png" 
-           android:x="0" android:y="0" android:width="48" android:height="48" android:name="menu_addtobookmark"/> 
-	<patch android:drawable="panel_bookmark.png" 
-           android:x="48" android:y="0" android:width="48" android:height="48" android:name="menu_addtofolder"/> 
-	<patch android:drawable="panel_bookmark.png" 
-           android:x="96" android:y="0" android:width="48" android:height="48" android:name="menu_history_clear"/> 
-           
-	<patch android:drawable="panel_bookmark.png" 
-           android
+<?xml version="1.0" encoding="utf-8"?>
+ <selector xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:state_selected="true" android:color="button_text_selected_color" />
+     <item android:state_focused="true" android:color="button_text_selected_color" />
+     <item android:state_pressed="true" android:color="button_text_selected_color" />
+     <item android:state_enabled="false" android:color="button_text_disable_color" />
+     <item android:color="button_text_default_color" />
+ </selector> 

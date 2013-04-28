@@ -1,6 +1,7 @@
-:x="0" android:y="192" android:width="48" android:height="48" android:name="menu_refresh"/> 
-           
-	<patch android:drawable="panel_bookmark.png" 
-           android:x="0" android:y="240" android:width="48" android:height="48" android:name="menu_history_date"/> 
-	<patch android:drawable="panel_bookmark.png" 
-           android:x="48" android:y="240" android:width="48" android:height="48" android:name="menu_history_visit
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="dialog_button_down.9.png" /> 
+	<item android:state_focused="true" android:drawable="dialog_button_down.9.png" /> 
+	<item android:state_selected="true" android:drawable="dialog_button_down.9.png" /> 
+	<item android:drawable="dialog_button_nor.9.png" /> 
+</selector>

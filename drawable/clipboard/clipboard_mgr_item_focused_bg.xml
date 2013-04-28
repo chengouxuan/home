@@ -1,3 +1,5 @@
-:width="48" android:height="48" android:name="menu_account"/> 
-	<patch android:drawable="panel_common.png" 
-           android:x="96" android:y="96" 
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#0d000000"/>
+</shape>
+

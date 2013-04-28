@@ -1,4 +1,5 @@
-ÉàF%y~ýõW±wDU‰=U­É|§ý6ÒÁW_}õ_p9lS$
-;@:˜
-™5Ë)…¤¨þõÛo¿ýj+l›%Eeó`?	DòØÉ#›H¦çÎ#ÎÈP¡ín¸á†å—^z©xÃ}Î‹ækÙI% Â²6LƒDÒ j;HT—5(¿‰HºW^yå¤KNMÓzf„}žzê)IuæbEM È$âÿZ–ìÌõ•––µôÁsìj×®]Äç„XíÛ·÷óL©œ×Ôºwï>[¨½³sŠ4ì$*ÅL¹[âU•íÃ\l%‘VÕª<Â(A4ÎEŒ÷æ·ÝvÛD§¥ÆêtŽÈ$
-cX‡D#µnÝº#
+<?xml version="1.0" encoding="utf-8"?>
+ <selector xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:state_selected="true" android:color="dialog_input_edit_text_color" />
+     <item android:color="dialog_input_edit_text_color" />
+ </selector> 

@@ -1,3 +1,5 @@
-.0" encoding="utf-8"?>
-<patch-drawable xmlns:android="http://schemas.android.com/apk/res/android">    
-	<patch android:drawable="panel_common.png" 
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#f3e4c8"/>
+</shape>
+

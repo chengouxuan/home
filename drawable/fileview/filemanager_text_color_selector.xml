@@ -1,3 +1,7 @@
-#cÆ2s—„ØÓEaëG1¯u3œÎfÀ;ìðè¸‹"h®ž¬‡ÀÖ›ì¬Çã»‚0|øð&!D×_ÑüQÿþýgÙóØmÌ'4þŒ3<¯S4©æ fäq6‡~ø£\è„?/æõÛ¨õõ6F`ôr±Å„£óã?Þ.×çµ×;©î.NÇÞ{oŽ¹QqûnÙ²åTÔ»[v
-¨s]Fv•p[ÌµÆ:X»Ø'2™ËùÇu—ðzì\œ×¹Ž8'Š]/<f±0]W;öPê|pÜ
-ºˆ‡½µíØcm¾é¦›˜ž¯ä< 3ÒEïç?ÿy‹3Ò†¾tŽÉDœsü¢r²mÊ–ãø7$]·‚ˆˆaœ-Æî:›hFæEsè¸Îð:Ì]¾—ò¤§˜ë(´IKKK³5lG°ºàØw*|¢×ðv¥hJØdæšÜé‰ÿÕ!MMÚ&S†Ó¥Æ	:ûl­á.)æÓO?½Æ”£)Zl/+Î)£Xl÷‘5óëì¼Ë¦M›Æ8iÙ.pî‡Q¹ép7@ætºV,B§2oÞ¼¼F£P¦9WeNyyù1bøáGD{”I{·&ˆk%4
+<?xml version="1.0" encoding="utf-8"?>
+ <selector xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:state_selected="true" android:color="filemanager_item_text_color_selected" />
+     <item android:state_focused="true" android:color="filemanager_item_text_color_pressed" />
+     <item android:state_pressed="true" android:color="filemanager_item_text_color_pressed" />
+     <item android:color="filemanager_item_text_color" />
+ </selector> 

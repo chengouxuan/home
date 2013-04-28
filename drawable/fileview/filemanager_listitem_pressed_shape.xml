@@ -1,2 +1,8 @@
-ΊΙ#½hΪ**o½υV!Aέ51ϊ7Δ]QcΞγZ€¶ω>Σµ#2σ0¬ΊταF‘oLΪε―.K);κ™lFd£P·557=ΗΚ|_ÒΣ”J2φÿt½Εaw0 ΑλzΛIϊ9S>θ7P…8ƒ>PσΡ±7ΑηNn΅.gΡΦ!­	ιϋ:
-›ύ#%κl¥ήύάν™ρ8ϊθ£ÿ“Η4S@^$ƒΣ%ΰ¤€ανz›½AΩ¶Πή\›{ι¥—FΑ?¬Bή±ÿώϋ_o²)•©MO~π!°νφ& ίμ\„›a]φ…8Ϊ·YTηΗ¤Ί«hηG¶ί£aÿxγ7ΊΜs;>'S~	\XυΨι§Nφ#4{ώψ¨‹=0]‘ΰ"
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle">
+	<gradient android:startColor="filemanager_item_pressed_startcolor" 
+	          android:endColor="filemanager_item_pressed_endcolor"
+	          android:angle="270" />
+
+</shape>
